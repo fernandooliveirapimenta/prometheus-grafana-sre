@@ -1,0 +1,16 @@
+
+instalando o prometheus
+https://prometheus.io/docs/prometheus/latest/getting_started/
+
+
+Configuracao
+https://prometheus.io/docs/prometheus/latest/configuration/configuration/
+
+
+Querys
+https://prometheus.io/docs/prometheus/latest/querying/basics/
+
+
+node exporter
+https://prometheus.io/docs/guides/node-exporter/
+tar xvfz node_exporter-*.*-amd64.tar.gz
